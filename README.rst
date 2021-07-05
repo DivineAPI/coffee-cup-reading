@@ -32,6 +32,8 @@ The Divine API can benefit the developers by adding the Coffee cup reading API t
 application and give their users an amazing chance to interpret the patterns of their coffee
 residuals at the bottom of the cup.
 
+
+
 Features
 ==========
 
@@ -219,7 +221,7 @@ Credits
 
 "DivineAPI" was created by `Azhar <https://azhar-spiderdev.github.io/portfolio>`_
 
-Source of horoscope updates - http://divineapi.com/horoscope-api/
+Source of updates - https://divineapi.com/coffee-cup-reading-api
 
 Please feel free to use and adapt this awesome API.
 
